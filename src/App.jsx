@@ -1,13 +1,13 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Layout from "./components/Layout";
-import Home from "./pages/Home";
-import Donate from "./pages/Donate";
-import AvailableFood from "./pages/AvailableFood";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
-import MyDonations from "./pages/MyDonations";
-import NotFound from "./pages/NotFound";
+import Home from "./Pages/Home";
+import Donate from "./Pages/Donate";
+import AvailableFood from "./Pages/AvailableFood";
+import About from "./Pages/About";
+import Contact from "./Pages/Contact";
+import MyDonations from "./Pages/MyDonations";
+import NotFound from "./Pages/NotFound";
 
 // function App 
 function App() {
