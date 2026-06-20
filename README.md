@@ -1,5 +1,10 @@
 # ShareToCare 
+
 A React + Tailwind CSS food donation platform that helps reduce food waste by connecting donors with people in need.
+
+## Live Demo
+
+https://share-to-care-two.vercel.app/
 
 ## Features
 
