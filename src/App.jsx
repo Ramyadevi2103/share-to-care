@@ -9,6 +9,7 @@ import Contact from "./pages/Contact";
 import MyDonations from "./pages/MyDonations";
 import NotFound from "./pages/NotFound";
 
+// function App 
 function App() {
   return (
     <BrowserRouter>
